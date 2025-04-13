@@ -1,0 +1,26 @@
+1. Job description based preparation
+2. Standard preparation : Resume 
+
+# Standard :
+
+a. Skills : Backend , Frontend , System Design , DevOps.
+b. Projects.
+c. Internships
+
+Core :
+Programming language : Java , JavaScript
+Data Structures and algorithm.
+OOPS concepts.
+SDLC
+OS
+Networking
+SQL/DBMS 
+System Design : LLD / HLD
+
+HR based
+Version Control
+Git & GitHub basics (clone, commit, push, PR, branches).
+E. APIs
+RESTful APIs: working, status codes, designing endpoints
+
+Optional: GraphQL basics

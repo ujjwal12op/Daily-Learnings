@@ -1,0 +1,48 @@
+🚀 1. Programming Languages (Pick One or Two and Master Them)
+JS,Nodejs , NestJS
+Java (Spring Boot) – Enterprise-grade applications, banks, fintech
+Git
+MySQL
+PostgreSQL
+MongoDB
+Redis
+RESTful APIs – Standards, status codes, versioning
+GraphQL – Flexible data fetching
+WebSockets – Real-time communication
+AWS AZURE Cloud
+JWT (JSON Web Tokens)
+OAuth2.0 / OpenID Connect
+Session management
+Password hashing (bcrypt, Argon2)
+Rate limiting & API security
+CORS, CSRF, XSS, SQL Injection prevention
+Linux (CLI skills)
+Docker – Containerization
+Docker Compose
+Kubernetes (Basic understanding)
+CI/CD – GitHub Actions, GitLab CI, Jenkins
+Nginx / Apache
+AWS (EC2, S3, RDS, Lambda)
+Unit Testing – Jest (JS), PyTest, JUnit
+Integration Testing
+Postman or Insomnia for API testing
+Debuggers & Logging tools
+TDD (Test Driven Development) (bonus)
+MVC architecture
+Monolith vs Microservices
+Load Balancers
+Scalability concepts
+Caching (Redis, Memcached)
+CDNs
+Message Brokers (RabbitMQ, Kafka)
+Git
+GitHub / GitLab / Bitbucket
+Problem-solving & DSA (for interviews)
+Clean code practices
+Design patterns (Factory, Singleton, etc.)
+Communication skills
+Writing documentation
+API Documentation: Swagger / OpenAPI
+System Design
+
+

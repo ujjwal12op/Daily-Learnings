@@ -46,13 +46,15 @@ a. Interview preparation(Resume based):
 1. Introduce yourself .
 2. Explain your project practice end to end(Real-time-chat-application).
 3. Explain your internships be prepared for that.
-4. Skill based questions : Java , OOPs , mySQL(Theory+query(10))
+4. Skill based questions : Java , OOPs , mySQL(Theory+query(10)),MongoDB,NodeJS,Express.
+5. DSA interview preparation and basic programming questions quick quick.
 
-b. Skill learning(backend):
-1. Lets finish MySQL basics for backend today.
-2. Basics of Node.js and express.
 
 c.Project making:
 1.Ecommerce backend starts.
 
 d. CAT : Number system 
+
+4pm : Completed with interview preparation did : Projects , internships , java , oops , sql ,mongodb , nodejs , express , restApi.
+Now starting with DSA
+

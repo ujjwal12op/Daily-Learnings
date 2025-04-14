@@ -11,11 +11,6 @@ It's a mix of reflections, goals, lessons learned, and small wins — all in one
 - To stay consistent and accountable in my life & career path
 - To document thoughts, ideas, and experiences over time
 
-## 🗂️ Structure
-
-
-- **journal/** — Daily entries including tasks, thoughts, events, and reflections
-- **monthly-summaries/** — Summary of achievements, key learnings, and plans for the upcoming month
 
 ## ✨ Topics I Cover
 
@@ -23,16 +18,6 @@ It's a mix of reflections, goals, lessons learned, and small wins — all in one
 - Productivity & habits
 - Mental clarity & self-reflection
 - Personal experiences & learning
-- Side projects, skills, and challenges
 
-## 🚀 Why Public?
 
-Sharing my journey publicly helps me stay honest, and maybe even inspire others doing the same.  
-Feel free to explore, get inspired, or even start your own journal!
-
-## 📌 Note
-
-This is a personal project — no fancy structure or filters.  
-Just raw, authentic thoughts.  
-Thanks for stopping by! 😊
 

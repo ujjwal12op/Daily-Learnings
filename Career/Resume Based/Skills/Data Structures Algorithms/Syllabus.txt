@@ -1,0 +1,195 @@
+✅ DSA Syllabus for Interview Preparation (Fresher Level)
+🧠 1. Time and Space Complexity
+Big O, Ω, Θ notations
+
+Best, Average, Worst cases
+
+How to calculate time and space complexity of algorithms
+
+🔢 2. Arrays
+Basics: Traversal, Insertion, Deletion
+
+Prefix Sum, Sliding Window, Two Pointer Techniques
+
+Sorting: Bubble, Selection, Insertion
+
+Applications:
+
+Largest/Smallest element
+
+Kadane’s Algorithm (Maximum Subarray Sum)
+
+Leaders in Array
+
+Stock Buy and Sell
+
+Rearranging elements (even/odd, positive/negative)
+
+📊 3. Strings
+String manipulation and pattern matching
+
+Anagram, Palindrome, Substrings, Subsequence
+
+Sliding Window in Strings
+
+Frequency Map / Hashing in strings
+
+Problems like:
+
+Longest Palindromic Substring
+
+Longest Common Prefix
+
+Check for Rotation
+
+Group Anagrams
+
+♻️ 4. Recursion & Backtracking
+Factorial, Fibonacci (with & without memoization)
+
+Subset, Permutations, Combinations
+
+N-Queens, Sudoku Solver, Rat in a Maze
+
+Recursion Tree & Stack Space
+
+🔁 5. Searching and Sorting
+Linear Search, Binary Search
+
+Binary Search on Answer (e.g., Minimum in Rotated Sorted Array)
+
+Merge Sort, Quick Sort
+
+Count Inversions
+
+Kth largest/smallest element
+
+🧺 6. Hashing / HashMap / HashSet
+Frequency counting
+
+Count Distinct Elements
+
+Longest Consecutive Subsequence
+
+Subarray with 0 sum / given sum
+
+🔗 7. Linked List
+Singly and Doubly Linked List
+
+Insertion/Deletion
+
+Detect loop (Floyd’s Cycle), Remove loop
+
+Reverse Linked List (Iterative & Recursive)
+
+Merge Two Sorted Lists
+
+Middle of LL
+
+Intersection Point of Two LLs
+
+📐 8. Stack and Queue
+Implement Stack/Queue using Arrays or Linked Lists
+
+Infix to Postfix, Postfix Evaluation
+
+Next Greater Element
+
+Valid Parentheses
+
+LRU Cache (Using LinkedHashMap)
+
+Queue using 2 Stacks / Stack using 2 Queues
+
+🌳 9. Trees
+Binary Tree, Binary Search Tree
+
+Traversals (Inorder, Preorder, Postorder, Level Order)
+
+Height, Diameter, Balanced Tree
+
+Lowest Common Ancestor (LCA)
+
+Convert Sorted Array to BST
+
+Top View / Bottom View of Tree
+
+🌲 10. Heaps/Priority Queue
+Max Heap / Min Heap basics
+
+Heapify and Heap Sort
+
+K Largest/Smallest Elements
+
+Merge K Sorted Arrays/Lists
+
+Median in a Stream
+
+🧭 11. Graphs
+Representation (Adjacency List/Matrix)
+
+BFS, DFS
+
+Connected Components
+
+Cycle Detection in Undirected/Directed Graph
+
+Topological Sort
+
+Dijkstra, Prim’s, Kruskal’s Algorithm
+
+Disjoint Set Union (Union-Find)
+
+📈 12. Greedy Algorithms
+Activity Selection Problem
+
+Fractional Knapsack
+
+Job Sequencing
+
+Huffman Coding
+
+Minimum Coins to make change
+
+🔁 13. Dynamic Programming (DP)
+0/1 Knapsack
+
+Subset Sum, Partition Equal Subset
+
+Longest Common Subsequence (LCS)
+
+Longest Increasing Subsequence
+
+Matrix Chain Multiplication
+
+DP on Grids
+
+Edit Distance
+
+🌌 14. Sliding Window / Two Pointers / Prefix-Suffix Techniques
+Maximum of all subarrays of size K
+
+Longest Substring without Repeating Characters
+
+Subarray with Given Sum
+
+Prefix sum with HashMap
+
+🧪 15. Bit Manipulation (Basic Level)
+Check if a number is power of 2
+
+Count set bits
+
+XOR Properties
+
+Single Number, Missing Number problems
+
+🧮 16. Math & Number Theory (Basic)
+GCD, LCM
+
+Prime Number Check
+
+Sieve of Eratosthenes
+
+Modular Arithmetic
+

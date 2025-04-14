@@ -1,23 +1,44 @@
-1. Job description based preparation
-2. Standard preparation : Resume 
-
-# Standard :
-
-a. Skills : Backend , Frontend , System Design , DevOps.
-b. Projects.
-c. Internships
-
-Core :
-Programming based questions : Basics 	
-Programming language : Java , JavaScript
-Data Structures and algorithm.
-OOPS concepts.
+Java
+JavaScript
+DSA
+MySQL
+MongoDB
+Node.js
+Express
+Springboot
+RESTApii
+JWT/OAuth/Session
+git github
+bcrypt
+env/npm
+render/vvercel
+devOps basics
+System Design
+Soft Skills
+OOPS concept
 SDLC
 OS
-Networking
-SQL/DBMS 
-System Design : LLD / HLD
+Projects mode
+Projects github
+Project interviewprep
+Interview experience
+github profile good
+linkedin profile
+linkedin connections
+resume good
+portfolio website good
+applying to jobs
+JD based preparation
+CAT quants
+CAT logical
+CAT verbal
+Problem Solving for interview
+Postman
+Communication
+Interview prep resume
+interview prep JD
+User Login/Logout system
+Security 
+Cloud Services Azure
+HR Based questions
 
-HR based
-Version Control
-Git & GitHub basics (clone, commit, push, PR, branches).
